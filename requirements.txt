@@ -1,0 +1,33 @@
+# vnpy_ctastrategy 
+# vnpy_ctabacktester 
+# vnpy_portfoliostrategy 
+# vnpy_portfoliobacktester 
+# vnpy_datamanager 
+# vnpy_futu 
+
+# vnpy_rpcservice 
+# vnpy_excelrtd 
+# vnpy_datarecorder 
+
+# vnpy_scripttrader 
+# vnpy_spreadtrading 
+# vnpy_algotrading 
+# vnpy_optionmaster 
+# vnpy_chartwizard 
+# vnpy_riskmanager 
+# vnpy_webtrader 
+# vnpy_portfoliomanager 
+# vnpy_paperaccount 
+
+
+psutil
+
+# peewee
+# exchange_calendars
+
+mplfinance
+scipy
+
+
+
+
